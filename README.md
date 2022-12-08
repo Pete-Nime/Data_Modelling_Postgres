@@ -9,17 +9,22 @@ Sparkigy (imiginary music app)  analyst wants to know the user activity on the n
 
 # Tools Employed in the project
 Jupyterlalb
+
 Postgres on the local PC host
+
 Standar Query Language (SQL)
+
 Python
 
 # Resources Employed in the project
 song Data Set
+
 song_data/A/B/C/TRABCEI128F424C983.json
 
 song_data/A/A/B/TRAABJL12903CDCF1A.json
 
 Log Dataset
+
 log_data/2018/11/2018-11-12-events.json
 
 log_data/2018/11/2018-11-13-events.json
