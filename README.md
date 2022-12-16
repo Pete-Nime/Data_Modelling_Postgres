@@ -20,12 +20,14 @@ Python
 
 # Resources Employed in the project
 song Data Set
-song_data/A/B/C/TRABCEI128F424C983.json
-song_data/A/A/B/TRAABJL12903CDCF1A.json
+
+-song_data/A/B/C/TRABCEI128F424C983.json
+-song_data/A/A/B/TRAABJL12903CDCF1A.json
 
 Log Dataset
-log_data/2018/11/2018-11-12-events.json
-log_data/2018/11/2018-11-13-events.json
+
+-log_data/2018/11/2018-11-12-events.json
+-log_data/2018/11/2018-11-13-events.json
 
 # Project Template
 test.ipynb displays the first few rows of each table to check the database.
