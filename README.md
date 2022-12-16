@@ -9,7 +9,9 @@ Sparkigy (imiginary music app)  analyst wants to know the user activity on the n
 
 # Tools Employed in the project
 Jupyterlalb
+
 Postgres on the local PC host
+
 Standard Query Language (SQL)
 Python
  - psycopg2 (mainly involved running PostgreSQL )
