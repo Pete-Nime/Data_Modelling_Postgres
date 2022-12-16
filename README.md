@@ -19,7 +19,7 @@ Python
 
 
 # Resources Employed in the project
-song Data Set
+song Dataset 
 
 -song_data/A/B/C/TRABCEI128F424C983.json
 
